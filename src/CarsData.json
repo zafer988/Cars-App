@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "model": "Tesla Model S",
+        "brand": "Tesla",
+        "description": "A luxury electric sedan with long-range capabilities and advanced features.",
+        "imageUrl": "https://cdn.motor1.com/images/mgl/0Y82p/s1/2016-tesla-model-s-update.jpg"
+    },
+    {
+        "id": 1,
+        "model": "BMW M4",
+        "brand": "BMW",
+        "description": "It is a coupe model that stands out with its driving pleasure and sporty lines.",
+        "imageUrl": "https://www.mmpower.com.tr/images/urun/20231027094535_75.jpg"
+    },
+    {
+        "id": 2,
+        "model": "Audi A6",
+        "brand": "Audi",
+        "description": "A prestigious sedan that combines comfort and technology.",
+        "imageUrl": "https://i.ytimg.com/vi/nGWLpiNzIDU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD87oHaMLsFINN0BHGCQLMHuyxUnA"
+    },
+    {
+        "id": 3,
+        "model": "Mercedes-Benz G-Class",
+        "brand": "Mercedes",
+        "description": "A luxurious SUV with a powerful engine and advanced features.",
+        "imageUrl": "https://www.usnews.com/object/image/00000194-78d8-dde0-afdf-7ddbfdc30000/2025-mercedes-amg-g-63-european-model-shown-source.jpg?update-time=1737194273675&size=responsive640"
+    },
+    {
+        "id": 4,
+        "model": "Toyota Corolla GR",
+        "brand": "Toyota",
+        "description": "A compact sedan with a sporty design and advanced features.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFBSxSfXzdLhB_B2KvR4ZHj9fQjC0WTuSo9w&s"
+    }
+]
